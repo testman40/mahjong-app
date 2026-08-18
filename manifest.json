@@ -1,0 +1,17 @@
+{
+  "name": "何切る道場 - 麻雀初心者練習アプリ",
+  "short_name": "何切る道場",
+  "description": "麻雀初心者向けの練習アプリ。何切る練習・危険牌の見極め・CPU対戦ができます。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#14342a",
+  "theme_color": "#1c4535",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
